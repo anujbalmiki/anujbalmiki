@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/anujbalmiki"><img src="https://api.daily.dev/devcards/51decfb1661e4b4b809a70557052df42.png?r=kud" width="400" alt="Anuj Balmiki's Dev Card"/></a>
+
 <!--
 **anujbalmiki/anujbalmiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
