@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/anujbalmiki"><img src="https://api.daily.dev/devcards/51decfb1661e4b4b809a70557052df42.png?r=kud" width="400" alt="Anuj Balmiki's Dev Card"/></a>
 <a href="https://app.daily.dev/anujbalmiki"><img src="https://api.daily.dev/devcards/v2/3l7FThxSPuY7bwnDik7Ku.png?type=wide&r=g5o" width="652" alt="Anuj Balmiki's Dev Card"/></a>
 
 <!--
