@@ -4,9 +4,11 @@
   <a href="https://app.daily.dev/anujbalmiki">
     <img src="https://api.daily.dev/devcards/v2/3l7FThxSPuY7bwnDik7Ku.png?type=wide&r=g5o" width="652" alt="Anuj Balmiki's Dev Card"/>
   </a>
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/65fa9cf56b7e513efbbb0264?variant=light" width="652" alt="roadmap.sh"/>
+  </a>
 </p>
 
-https://roadmap.sh/card/wide/65fa9cf56b7e513efbbb0264?variant=dark
 
 <!--
 **anujbalmiki/anujbalmiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
