@@ -1,14 +1,28 @@
 Hi 👋 My name is Anuj Balmiki
 =============================
 
-Python Developer
-----------------
+Full Stack Developer | Python & Django Specialist
+-------------------------------------------------
 
-I have been working with python from last 4 years, and now I am working as full stack developer with Django as main framework.
+With over 4 years of experience in Python development, I specialize in building robust and scalable web applications using Django as my primary framework. I thrive on solving complex problems and delivering efficient, user-friendly solutions.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [anujbalmiki14@mail.com](mailto:anujbalmiki14@mail.com)
-* 🧠  I'm learning Rust
+About Me
+* 🌍 Based in India
+
+* ✉️ Reach me at: anujbalmiki14@mail.com
+
+* 🧠 Currently learning Rust to expand my skills in systems programming and performance optimization.
+
+What I Do
+---------
+🖥️ Full Stack Development: Proficient in building end-to-end web applications using Django, Python, and modern front-end technologies.
+
+🛠️ Backend Expertise: Skilled in designing and maintaining scalable backend systems, APIs, and databases.
+
+🚀 Continuous Learner: Always exploring new technologies and frameworks to stay ahead in the ever-evolving tech landscape.
+
+Let’s Connect!
+I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out via email or connect with me on www.linkedin.com/in/anuj-balmiki
 
 ### Skills
 
