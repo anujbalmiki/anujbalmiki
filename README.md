@@ -3,7 +3,7 @@
 
 ---
 
-With over **4 years of experience** in full-stack development, I specialize in building **robust and scalable web applications** using Django, Python, and modern frontend technologies. I enjoy solving complex problems and crafting performant, user-friendly digital solutions.
+With over **2.5 years of experience** in full-stack development, I specialize in building **robust and scalable web applications** using Django, Python, and modern frontend technologies. I enjoy solving complex problems and crafting performant, user-friendly digital solutions.
 
 ---
 
